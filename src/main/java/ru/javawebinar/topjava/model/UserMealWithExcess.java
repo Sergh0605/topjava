@@ -20,6 +20,7 @@ public class UserMealWithExcess {
 
     @Override
     public String toString() {
+        System.out.println("");
         return "UserMealWithExcess{" +
                 "dateTime=" + dateTime +
                 ", description='" + description + '\'' +
